@@ -94,16 +94,24 @@ section {
 
 .navbar-toggler, .navbar-toggler:focus {
     background-color: rgb(255 167 104 / 1);
-    border-color: rgb(145 41 0 / 1) !important;
+    border-color: rgb(145 41 0 / 1);
+    border-width:1px;
     box-shadow: none;
 }
 
-    .navbar-toggler .navbar-toggler-icon {
+.navbar-toggler {
+    background-color: rgb(255 230 167 / 1);
+    border-color: rgb(145 41 0 / 1);
+    border-width:1px;
+    box-shadow: none;
+}
+
+.navbar-toggler .navbar-toggler-icon {
         background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(145,41,0,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
     }
 
 .navbar-toggler {
-    border-color: rgb(255 102 203);
+    border-color: rgb(145 41 0 / 1);
 }
 
 .navbar-light {
