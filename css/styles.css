@@ -131,7 +131,7 @@ section {
         background-color: #FFA768 !important;
     }
 
-@media (max-width:575px) {
+@media (max-width:767px) {
     #menubutton, .nav-item, #navbarSupportedContent {
         visibility: visible;
     }
@@ -142,7 +142,7 @@ section {
     }
 }
 
-@media (min-width:576px) {
+@media (min-width:768px) {
     #menubutton, .nav-item, #navbarSupportedContent {
         visibility: hidden !important;
         display: none !important;
