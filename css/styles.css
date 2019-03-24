@@ -26,7 +26,6 @@ h2 {
     font-size: 1.3em;
     font-weight: bold;
     color: chocolate;
-    text-align: center;
     margin-top: 10px;
 }
 
@@ -45,7 +44,7 @@ h2 {
 }
 
 .nav-item {
-    text-align: center;
+    /*text-align: center;*/
     font-size: 18px;
     font-weight: 700;
     color: chocolate;
