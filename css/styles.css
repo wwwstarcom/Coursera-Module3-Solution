@@ -32,14 +32,14 @@ h2 {
 
 .hr-top {
     height: 1px;
-    background-color: rgb(145 41 0 / 1);
+    background-color: #912900;
     margin-top: 0;
     margin-bottom: 0;
 }
 
 .hr-bottom {
     height: 1px;
-    background-color: rgb(255 167 104 / 1);
+    background-color: #FFA768;
     margin-top: 0;
     margin-bottom: 5px;
 }
@@ -57,7 +57,7 @@ section {
 }
 
     section h3 {
-        background-color: rgb(255 230 167 / 1);
+        background-color: #FFE6A7;
         margin: 0;
         padding: 10px 10px 0 10px;
         font-size: 1.15em;
@@ -67,7 +67,7 @@ section {
     }
 
     section p {
-        background-color: rgb(255 230 167 / 1);
+        background-color: #FFE6A7;
         margin: 0;
         padding: 10px 10px 10px 10px;
         font-size: 0.8em;
@@ -77,7 +77,7 @@ section {
 
         section p a, section p a:hover, section p a:focus {
             text-decoration: none;
-            color: rgb(145 41 0 / 1);
+            color: #912900;
             font-weight: bold;
             margin-left: 5px;
             font-size: 1em;
@@ -86,26 +86,26 @@ section {
 .icon-bar {
     width: 16px;
     height: 2px;
-    background-color: rgb(145, 41, 0, 1);
+    background-color: #912900;
     color: black;
     margin-top: 4px;
     margin-bottom: 4px;
 }
 
 .navbar {
-    background-color: rgb(255 230 167 / 1) !important;
+    background-color: #FFE6A7 !important;
 }
 
 .navbar-toggler, .navbar-toggler:focus {
-    background-color: rgb(255 167 104 / 1);
-    border-color: rgb(145 41 0 / 1);
+    background-color: #FFA768;
+    border-color: #912900;
     border-width:1px;
     box-shadow: none;
 }
 
 .navbar-toggler {
-    background-color: rgb(255 230 167 / 1);
-    border-color: rgb(145 41 0 / 1);
+    background-color: #FFE6A7;
+    border-color: #912900;
     border-width:1px;
     box-shadow: none;
 }
@@ -115,11 +115,11 @@ section {
     }
 
 .navbar-toggler {
-    border-color: rgb(145 41 0 / 1);
+    border-color: #912900;
 }
 
 .navbar-light {
-    background-color: rgb(255 230 167 / 1) !important;
+    background-color: #FFE6A7 !important;
 }
 
 .nav-item, .nav-link {
@@ -127,8 +127,8 @@ section {
 }
 
     .nav-item:hover, .nav-link:hover {
-        color: rgb(145 41 0 / 1) !important;
-        background-color: rgb(255 167 104 / 1) !important;
+        color: #912900 !important;
+        background-color: #FFA768 !important;
     }
 
 @media (max-width:575px) {
